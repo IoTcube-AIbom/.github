@@ -19,15 +19,17 @@ This project provides a stable, standardized baseline for participating labs to 
 ### Core Security Tools
 Each tool adheres to the project’s **standard directory and JSON specifications** while focusing on a specific security domain.
 
-| Tool ID | Repository Name | Description |
+| Repository Name | Description | Research Organization |
 | :--- | :--- | :--- |
-| **Tool 1** | **[T1-Data-Sanitization](https://github.com/IoTcube-AIbom/T1-Data-Sanitization)** | Training Data Poisoning Inspection & Sanitization Report. |
-| **Tool 2** | **[T2-AI-Model-Vulnerability-Detection](https://github.com/IoTcube-AIbom/T2-AI-Model-Vulnerability-Detection)** | Post-Training Model Vulnerability & Backdoor Detection. |
-| **Tool 3** | **[T3-AI-Agent-Vulnerability-Detection](https://github.com/IoTcube-AIbom/T3-AI-Agent-Vulnerability-Detection)** | Scenario-Based Vulnerability Detection for Agentic AI Systems. |
-| **Tool 4** | **[T4-AIBOM-Generation](https://github.com/IoTcube-AIbom/T4-AIBOM-Generation)** | Automated AIBOM Generation (Model, Library, and Dependency Scanning). |
-| **Tool 5** | **[T5-AIBOM-based-Vulnerability-Detection](https://github.com/IoTcube-AIbom/T5-AIBOM-based-Vulnerability-Detection)** | AIBOM-Based Vulnerability Mapping & Risk Impact Assessment. |
-| **Tool 6** | **[T6-Attack-Mitigation](https://github.com/IoTcube-AIbom/T6-Attack-Mitigation)** | Feasibility Assessment of Countermeasure Policies by Attack Scenario. |
-
+| **[T1-Data-Sanitization](https://github.com/IoTcube-AIbom/T1-Data-Sanitization)** | Training Data Poisoning Inspection & Sanitization Report. | [연구기관명 입력] |
+| **[T2-AI-Model-Vulnerability-Detection](https://github.com/IoTcube-AIbom/T2-AI-Model-Vulnerability-Detection)** | Post-Training Model Vulnerability & Backdoor Detection. | [연구기관명 입력] |
+| **[T3-AI-Agent-Vulnerability-Detection](https://github.com/IoTcube-AIbom/T3-AI-Agent-Vulnerability-Detection)** | Scenario-Based Vulnerability Detection for Agentic AI Systems. | [연구기관명 입력] |
+| **[T4-AIBOM-Generation](https://github.com/IoTcube-AIbom/T4-AIBOM-Generation)** | Automated AIBOM Generation (Model, Library, and Dependency Scanning). | [연구기관명 입력] |
+| **[T5-AIBOM-based-Vulnerability-Detection](https://github.com/IoTcube-AIbom/T5-AIBOM-based-Vulnerability-Detection)** | AIBOM-Based Vulnerability Mapping & Risk Impact Assessment. | [연구기관명 입력] |
+| **[T6-Attack-Mitigation](https://github.com/IoTcube-AIbom/T6-Attack-Mitigation)** | Feasibility Assessment of Countermeasure Policies by Attack Scenario. | [연구기관명 입력] |
+| **[tta-repo](https://github.com/IoTcube-AIbom/tta-repo)** | [저장소 설명 입력] | TTA |
+| **[MCCAAi-repo](https://github.com/IoTcube-AIbom/MCCAAi-repo)** | [저장소 설명 입력] | MCCAAi |
+| **[CSSA-repo](https://github.com/IoTcube-AIbom/CSSA-repo)** | [저장소 설명 입력] | CSSA |
 ---
 
 ## Getting Started
