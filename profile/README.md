@@ -41,4 +41,11 @@ We welcome contributions from participating labs and external collaborators. To 
 - Please keep pull requests **small and focused**.
 - Include **tests** whenever applicable.
 - Ensure all tool outputs remain **fully compatible** with the defined directory and JSON specs.
-- For
+- For major design proposals, please open an issue or discussion first.
+
+## Communication
+- For technical discussions, please use **GitHub Issues/Discussions** in the relevant repository.
+- For cross-lab coordination, please reach out to the **designated contacts** listed in the project notes.
+
+## License
+Unless otherwise stated, repositories in this organization are released under the license specified within each individual repository.
