@@ -27,9 +27,9 @@ Each tool adheres to the project’s **standard directory and JSON specification
 | **[T4-AIBOM-Generation](https://github.com/IoTcube-AIbom/T4-AIBOM-Generation)** | Automated AIBOM Generation (Model, Library, and Dependency Scanning). | Korea Univ. |
 | **[T5-AIBOM-based-Vulnerability-Detection](https://github.com/IoTcube-AIbom/T5-AIBOM-based-Vulnerability-Detection)** | AIBOM-Based Vulnerability Mapping & Risk Impact Assessment. | Korea Univ. |
 | **[T6-Attack-Mitigation](https://github.com/IoTcube-AIbom/T6-Attack-Mitigation)** | Feasibility Assessment of Countermeasure Policies by Attack Scenario. | Korea Univ. |
-| **[TTA-repo](https://github.com/IoTcube-AIbom/TTA-repo)** | [저장소 설명 입력] | TTA |
-| **[MCCAAi-repo](https://github.com/IoTcube-AIbom/MCCAAi-repo)** | [저장소 설명 입력] | MCCAAi |
-| **[CSSA-repo](https://github.com/IoTcube-AIbom/CSSA-repo)** | [저장소 설명 입력] | CSSA |
+| **[TTA-repo](https://github.com/IoTcube-AIbom/TTA-repo)** | Repository for TTA | TTA |
+| **[MCCAAi-repo](https://github.com/IoTcube-AIbom/MCCAAi-repo)** | Repository for MCCAAi | MCCAAi |
+| **[CSSA-repo](https://github.com/IoTcube-AIbom/CSSA-repo)** | Repository for CSSA | CSSA |
 ---
 
 ## Getting Started
