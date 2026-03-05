@@ -36,7 +36,7 @@ Each tool adheres to the project’s **standard directory and JSON specification
 
 1.  **Understand the Specs**: Start with **ai-lifecycle-spec** to review the required **directory structures** and **JSON file formats**.
 2.  **Run the Demo**: Use **ai-lifecycle-demo** to experience how all tools integrate based on the shared specifications.
-3.  **Explore Tools**: Visit individual **T\*- repositories** for specific implementation details and technical stacks.
+3.  **Explore Tools**: Visit individual **repositories** for specific implementation details and technical stacks.
 
 ## Contributing
 We welcome contributions from participating labs and external collaborators. To ensure efficient collaboration:
